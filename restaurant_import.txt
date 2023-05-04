@@ -1,1 +1,3 @@
 TODO: Task 1 - Write the mongo import command here
+
+mongoimport --uri "mongodb://mongo:6N2gbkxJg0LLf4TxULZ5@containers-us-west-63.railway.app:5579/?authSource=admin" --jsonArray --db restaurants --collection restaurant --file C:\Users\super\OneDrive\Desktop\ibf2022-batch3-paf-makeup-assessment\restaurants.json
